@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Git\\testVs\\BT2\\BT2\\BT2.csproj",
+      "projectUniqueName": "D:\\Tài liệu học\\test\\Ductesstlan2\\BT2\\BT2\\BT2.csproj",
       "projectName": "BT2",
-      "projectPath": "D:\\Git\\testVs\\BT2\\BT2\\BT2.csproj",
+      "projectPath": "D:\\Tài liệu học\\test\\Ductesstlan2\\BT2\\BT2\\BT2.csproj",
       "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
-      "outputPath": "D:\\Git\\testVs\\BT2\\BT2\\obj\\",
+      "outputPath": "D:\\Tài liệu học\\test\\Ductesstlan2\\BT2\\BT2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",
