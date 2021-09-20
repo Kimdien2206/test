@@ -8,7 +8,7 @@ namespace BT2
     {
         public override float AveragePoint()
         {
-            return (EngPoint + LitPoint * 2 + MathPoint) / 4;
+            return (EngPoint + LitPoint * 2 + MathPoint);
         }
     }
 }
